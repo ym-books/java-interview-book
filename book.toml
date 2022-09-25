@@ -3,4 +3,20 @@ authors = ["xinxiamu"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Java面试经"
+# title = "Java面试经"
+title = "*******"
+
+# 配置页面可以编译代码，只对rust可以
+[output.html.playpen]
+editable = true
+editor = "ace"
+line-numbers = true
+
+[output.html.fold]
+enable = false #展开或收缩菜单标签
+
+[output.html]
+git-repository-url = "https://github.com/rust-lang/rust-by-example"
+
+[rust]
+edition = "2021"

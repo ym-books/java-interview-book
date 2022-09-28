@@ -1,11 +1,12 @@
 # Summary
 
 - [Java基础篇](content/chapter_1.md)
-  - [OOP、OOD编程思想](content/chapter_1_1.md)
+  - [Java Core](content/chapter_1_1.md)
   - [Java I/O](content/chapter_1_2.md)
   - [Java 集合](content/chapter_1_3.md)
   - [Java 多线程](content/chapter_1_4.md)
   - [Java JVM](content/chapter_1_5.md)
+  - [OOP、OOD编程思想](content/chapter_1_6.md)
 - [开发框架篇](content/chapter_2.md)
   - [Spring](content/chapter_2_1.md)
       - [Spring基础](content/chapter_2_1_1.md)

@@ -35,6 +35,7 @@
 - [开发管理篇](content/chapter_8.md)
   - [敏捷开发](content/chapter_8_1.md)
   - [开发工具](content/chapter_8_2.md)
+  - [技术经理](content/chapter_8_3.md)
 - [项目经验篇](content/chapter_9.md)
  
 ------------------------------------------------------

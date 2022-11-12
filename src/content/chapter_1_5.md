@@ -7,6 +7,7 @@
 > * [Java agent](#jump1)
 > * [说下Java内存模型](#jump2)
 > * [Java类的加载机制是怎么样的？](#jump3)
+> * [对象不再使用时，为什么要赋值为 null ？](#jump4)
 
 <a id="jump1"/>**了解Java agent吗？请说说它的原理和使用方式**
 
@@ -15,3 +16,7 @@
 
 
 <a id="jump3"/>**Java类的加载机制是怎么样的？**
+
+<a id="jump4"/>**J对象不再使用时，为什么要赋值为 null ？**
+
+参考：https://blog.csdn.net/weixin_30308101/article/details/112618931?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-112618931-blog-122078038.pc_relevant_aa_2&spm=1001.2101.3001.4242.1&utm_relevant_index=3

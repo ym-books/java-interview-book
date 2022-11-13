@@ -3,8 +3,8 @@ authors = ["xinxiamu"]
 language = "en"
 multilingual = false
 src = "src"
-# title = "Java面试经"
-title = "*******"
+title = "Java面试宝典"
+#title = "*******"
 
 # 配置页面可以编译代码，只对rust可以
 [output.html.playpen]
